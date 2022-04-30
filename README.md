@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Hey Bienvenu sur mon profile dévéloppeur, 
+### Hey Bienvenu sur mon profile développeur, 
 
 Etes vous encore à la recherche d'un collaborateur pour intégrer votre équipe de dévéloppeur ? Une personne qui saura vous accompagner à faire les bons choix dans votre digitalisation et apporter son savoir dans la réalisation des projets intérressant ? 
 Savez vous que 60% des projets informatiques ne respectent pas les delais et dépassent le budget impartis lorsque vous n'avez pas la team licorne (sky is they limit). 
