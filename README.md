@@ -9,7 +9,7 @@ Savez vous que 60% des projets informatiques ne respectent pas les delais et dé
 Je vous rassure je ne suis pas encore commercial, vous êtes bien sur mon profil développeur. 
 Diplômé d'un master en Ingénierie logiciel et intégration de système complexes. J'interviens dans la compréhension des différents besoins souhaités, également dans la réalisation du projet grâce à mon expérience dans le milieu du développement et mes compétences de développeur. 
 
-J'ai décidé de me spécialiser en Javascript et Node, Flutter et compagnies (React, VueJS, React Native) qui sont pour mois les technos d'avenir, cependant il n'en reste pas moins que de par ma formation et mon parcours j'ai développé également des compétences en Java (SpringBoot pour des projets plus grand) et des bonnes pratiques TDD, clean code, refractoring afin de produire des solutions informatiques robustes, solides et surtout maintenable.
+J'ai décidé de me spécialiser en Javascript et Node, Flutter et compagnies (React, VueJS, React Native) qui sont pour moi les technos d'avenir, cependant il n'en reste pas moins que de par ma formation et mon parcours j'ai développé également des compétences en Java (SpringBoot pour des projets plus grand) et des bonnes pratiques TDD, clean code, refractoring afin de produire des solutions informatiques robustes, solides et surtout maintenable.
 
 
 
